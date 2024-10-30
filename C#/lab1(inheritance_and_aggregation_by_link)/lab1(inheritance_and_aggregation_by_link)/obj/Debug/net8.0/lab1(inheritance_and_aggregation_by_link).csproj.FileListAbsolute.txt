@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\bin\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).exe
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\bin\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).deps.json
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\bin\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).runtimeconfig.json
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\bin\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).dll
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\bin\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).pdb
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).dll
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\refint\lab1(inheritance_and_aggregation_by_link).dll
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).pdb
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\lab1(inheritance_and_aggregation_by_link).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab1(inheritance_and_aggregation_by_link)\lab1(inheritance_and_aggregation_by_link)\obj\Debug\net8.0\ref\lab1(inheritance_and_aggregation_by_link).dll
