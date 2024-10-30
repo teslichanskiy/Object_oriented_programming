@@ -1,0 +1,9 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(36,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(69,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(92,27): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(102,14): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(196): warning C4715: operator>: значение возвращается не при всех путях выполнения
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(299): warning C4715: operator+: значение возвращается не при всех путях выполнения
+C:\Users\Даня\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(313): warning C4715: operator-: значение возвращается не при всех путях выполнения
+  ConsoleApplication11.vcxproj -> C:\Users\Даня\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe
