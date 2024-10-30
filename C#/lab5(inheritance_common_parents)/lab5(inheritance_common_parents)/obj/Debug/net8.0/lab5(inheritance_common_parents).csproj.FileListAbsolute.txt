@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\bin\Debug\net8.0\lab5(inheritance_common_parents).exe
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\bin\Debug\net8.0\lab5(inheritance_common_parents).deps.json
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\bin\Debug\net8.0\lab5(inheritance_common_parents).runtimeconfig.json
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\bin\Debug\net8.0\lab5(inheritance_common_parents).dll
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\bin\Debug\net8.0\lab5(inheritance_common_parents).pdb
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).dll
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\refint\lab5(inheritance_common_parents).dll
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).pdb
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\lab5(inheritance_common_parents).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab5(inheritance_common_parents)\lab5(inheritance_common_parents)\obj\Debug\net8.0\ref\lab5(inheritance_common_parents).dll

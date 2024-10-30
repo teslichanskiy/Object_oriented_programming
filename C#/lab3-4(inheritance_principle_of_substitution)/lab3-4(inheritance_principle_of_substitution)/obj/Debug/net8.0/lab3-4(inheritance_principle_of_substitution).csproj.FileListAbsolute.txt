@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\bin\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).exe
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\bin\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).deps.json
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\bin\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).runtimeconfig.json
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\bin\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).dll
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\bin\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).pdb
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).dll
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\refint\lab3-4(inheritance_principle_of_substitution).dll
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).pdb
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\lab3-4(inheritance_principle_of_substitution).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab3-4(inheritance_principle_of_substitution)\lab3-4(inheritance_principle_of_substitution)\obj\Debug\net8.0\ref\lab3-4(inheritance_principle_of_substitution).dll

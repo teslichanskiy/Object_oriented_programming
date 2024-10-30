@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\bin\Debug\net8.0\lab2(aggregation_by_value_and_attachment).exe
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\bin\Debug\net8.0\lab2(aggregation_by_value_and_attachment).deps.json
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\bin\Debug\net8.0\lab2(aggregation_by_value_and_attachment).runtimeconfig.json
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\bin\Debug\net8.0\lab2(aggregation_by_value_and_attachment).dll
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\bin\Debug\net8.0\lab2(aggregation_by_value_and_attachment).pdb
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).dll
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\refint\lab2(aggregation_by_value_and_attachment).dll
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).pdb
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\lab2(aggregation_by_value_and_attachment).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab2(aggregation_by_value_and_attachment)\lab2(aggregation_by_value_and_attachment)\obj\Debug\net8.0\ref\lab2(aggregation_by_value_and_attachment).dll
