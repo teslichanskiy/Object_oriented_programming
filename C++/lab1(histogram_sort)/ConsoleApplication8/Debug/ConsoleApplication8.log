@@ -1,0 +1,5 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Даня\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даня\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(68,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Даня\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(102,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Даня\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(76): error C4703: используется потенциально неинициализированная локальная переменная-указатель "strtmp"
