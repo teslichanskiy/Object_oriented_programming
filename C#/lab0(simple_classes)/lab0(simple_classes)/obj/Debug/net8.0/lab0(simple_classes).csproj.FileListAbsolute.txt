@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\bin\Debug\net8.0\lab0(simple_classes).exe
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\bin\Debug\net8.0\lab0(simple_classes).deps.json
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\bin\Debug\net8.0\lab0(simple_classes).runtimeconfig.json
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\bin\Debug\net8.0\lab0(simple_classes).dll
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\bin\Debug\net8.0\lab0(simple_classes).pdb
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).dll
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\refint\lab0(simple_classes).dll
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).pdb
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\lab0(simple_classes).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab0(simple_classes)\lab0(simple_classes)\obj\Debug\net8.0\ref\lab0(simple_classes).dll

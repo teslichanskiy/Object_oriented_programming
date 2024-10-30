@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab0(simple_classes)/1.0.0": {
+        "runtime": {
+          "lab0(simple_classes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab0(simple_classes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
