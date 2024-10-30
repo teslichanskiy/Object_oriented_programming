@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\bin\Debug\net8.0\lab7(usage).exe
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\bin\Debug\net8.0\lab7(usage).deps.json
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\bin\Debug\net8.0\lab7(usage).runtimeconfig.json
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\bin\Debug\net8.0\lab7(usage).dll
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\bin\Debug\net8.0\lab7(usage).pdb
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).dll
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\refint\lab7(usage).dll
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).pdb
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\lab7(usage).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab7(usage)\lab7(usage)\obj\Debug\net8.0\ref\lab7(usage).dll

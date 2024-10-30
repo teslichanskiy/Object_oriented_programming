@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\bin\Debug\net8.0\lab8(specification).exe
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\bin\Debug\net8.0\lab8(specification).deps.json
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\bin\Debug\net8.0\lab8(specification).runtimeconfig.json
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\bin\Debug\net8.0\lab8(specification).dll
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\bin\Debug\net8.0\lab8(specification).pdb
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).dll
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\refint\lab8(specification).dll
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).pdb
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\lab8(specification).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab8(specification)\lab8(specification)\obj\Debug\net8.0\ref\lab8(specification).dll

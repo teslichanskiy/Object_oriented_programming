@@ -1,0 +1,14 @@
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\bin\Debug\net8.0\lab6(association).exe
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\bin\Debug\net8.0\lab6(association).deps.json
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\bin\Debug\net8.0\lab6(association).runtimeconfig.json
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\bin\Debug\net8.0\lab6(association).dll
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\bin\Debug\net8.0\lab6(association).pdb
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).AssemblyInfo.cs
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).dll
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\refint\lab6(association).dll
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).pdb
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\lab6(association).genruntimeconfig.cache
+C:\Users\Данила\source\repos\lab6(association)\lab6(association)\obj\Debug\net8.0\ref\lab6(association).dll
