@@ -1,0 +1,6 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\Данила\source\repos\ConsoleApplication10\ConsoleApplication10\Header1.h(51,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Данила\source\repos\ConsoleApplication10\ConsoleApplication10\Header1.h(163,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Данила\source\repos\ConsoleApplication10\ConsoleApplication10\Header1.h(271,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Данила\source\repos\ConsoleApplication10\ConsoleApplication10\Header1.h(517,27): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication10.vcxproj -> C:\Users\Данила\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
